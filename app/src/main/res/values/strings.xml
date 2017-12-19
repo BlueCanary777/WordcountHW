@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordCountLab</string>
+    <string name="num_words">Press to count</string>
+    <string name="type_word_hint">Type some text</string>
+    <string name="calc">Number of Words</string>
+</resources>
